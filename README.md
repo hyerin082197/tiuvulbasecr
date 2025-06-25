@@ -27,9 +27,11 @@ This repository demonstrates a **CI/CD pipeline** using **GitHub Actions**, whic
 
 ## File Structure
 
+```
 ├── .github/
 │   └── workflows/
 │       └── cicd.yml    # The GitHub Actions workflow
 ├── Dockerfile          # Docker image configuration
 ├── README.md           # Project documentation
 └── .gitignore          # Ignored files
+```
